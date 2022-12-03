@@ -1,7 +1,6 @@
 **In English** 
 
 > ! *How to compile* ! 
-
 > gcc -o child child.c 
 
 > gcc Task6.c 
