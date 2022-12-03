@@ -1,11 +1,9 @@
 **In English** 
 
-> ! *How to compile* ! 
-> gcc -o child child.c 
-
-> gcc Task6.c 
-
->./a.out num_child time 
+> ! *How to compile* ! \
+> gcc -o child child.c \
+> gcc Task6.c \
+>./a.out num_child time \
 
 Where 
 
